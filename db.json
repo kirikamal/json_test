@@ -1,0 +1,19 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "External Patient"
+    },
+    {
+      "id": 2,
+      "name": "Operation"
+    },
+    {
+      "id": 3,
+      "name": "Review List"
+    }
+  ],
+  "profile": {
+    "name": "kirikamal"
+  }
+}
